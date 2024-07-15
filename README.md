@@ -28,7 +28,7 @@ This Jupyter Notebook explores emotion detection using various Convolutional Neu
 
 ## Screenshots
 
-![Example-1](path/to/custom_cnn_training_screenshot.png)
+![Example-1]([path/to/custom_cnn_training_screenshot.png](https://github.com/SohamD242/Emotion_DetectionCNN/blob/main/Screenshot%202024-05-02%20150800.png))
 
 
 ![Example-2](path/to/resnet_model_performance_screenshot.png)
